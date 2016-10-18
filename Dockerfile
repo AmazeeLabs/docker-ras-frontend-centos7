@@ -1,4 +1,4 @@
-FROM openshift/base-centos7
+FROM centos:7
 
 MAINTAINER amazee.io hello@amazee.io
 
