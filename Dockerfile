@@ -9,7 +9,6 @@ RUN \
                 ocaml \
                 elfutils-libelf-devel \
                 nodejs \
-                git \
                 yarn \
                 && \
     yum clean all -y
